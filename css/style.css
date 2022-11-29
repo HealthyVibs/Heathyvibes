@@ -1053,8 +1053,18 @@ textarea#comment::placeholder {
 .copyright_text a:hover{
     color: #fdbe28;
 }
-
-
+.texto-politicas{
+text-align: justify;
+}
+.politics{
+color: white;
+}
+.afiliador{
+position: relative;
+max-width:20%;
+left: 540px;
+top:50px;
+}
 
 
 
